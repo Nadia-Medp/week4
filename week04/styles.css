@@ -1,0 +1,44 @@
+body {
+	background-color: #000;
+	padding: 0px;
+	margin: 0px;
+	font-family: "Oswald", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: 700; 
+	font-style: normal;
+    background-image: url("images/logo.jpg");
+ /*   background-repeat: no-repeat;*/
+ background-attachment: fixed;
+}
+
+/*grouping - bulk styling*/
+h1, h2, h3, h4, h5 {
+margin: 0px;
+}
+
+#wrapper {
+	background-color: #CCC;
+	width: 80%;
+	margin: 0px auto 0px auto;
+	padding: 40px;
+	border: dotted 4px #000;
+}
+header {
+	background-color: #666;
+}
+
+nav {
+	background-color: #999;
+}
+main {
+	background-color: #CCC;
+}
+section {
+	background-color: #CCC;
+}
+article {
+	background-color: #CCC;
+}
+footer {
+	background-color: #CCC;
+}
